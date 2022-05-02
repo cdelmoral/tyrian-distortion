@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name tyrian-distortion)(type KiCad)(uri ${KIPRJMOD}/tyrian-distortion.pretty)(options "")(descr ""))
+)
